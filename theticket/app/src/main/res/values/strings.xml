@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">The Tickets</string>
+    <string name="txtTitle">Ticket Vault</string>
+    <string name="btnTextCost">FIND TICKET COST</string>
+    <string name="txtTicketsHint">Number of Tickets</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert-Image</string>
+    <string name="tickethint">Enter the number of tickets</string>
+    <string name="total_cost_of_tickets_hint">Total Cost of Tickets</string>
+    <string name="enter_number_of_concert_tickets">Enter Number of concert tickets</string>
+
+    <string-array name="bandStringArray">
+        <item>Pink Floyd</item>
+        <item>The Beatles</item>
+        <item>Red Hot Chili Peppers</item>
+    </string-array>
+
+</resources>

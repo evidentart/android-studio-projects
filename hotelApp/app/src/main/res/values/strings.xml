@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hotelApp</string>
+    <string name="textview_str">Mineral Hotel</string>
+    <string name="textview2_str">Hotel Information</string>
+    <string name="button_str">Hotel Information</string>
+    <string name="textview3_str">432 Relax Lane\nPortland, Maine</string>
+    <string name="textview4_str">Cost: $220 - $450 a night</string>
+</resources>

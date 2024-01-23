@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rental App</string>
+    <string name="txtTitle">Fields Rental</string>
+    <string name="btnTextCost">Compute Cost</string>
+    <string name="txtDaysHint">Number of Days to Rent ?</string>
+    <string name="prompt">Select Tool</string>
+    <string name="description">Washing-Image</string>
+    <string name="dayshint">Enter the number of days</string>
+    <string name ="total_cost_of_rental_hints">Total Cost of Rental</string>
+    <string name="radioText">You can rent one tool for maximum 7 days</string>
+    <string name="washer_button">Pressure Washer</string>
+    <string name="tiller_button">Tiller</string>
+    <string name="leaf_button">Large Leaf Blower</string>
+    <string name="auger_button">Auger</string>
+    <string name="enter_number_of_days">Enter number of Days</string>
+</resources>

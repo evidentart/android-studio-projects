@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TheChef - Nav</string>
+    <string name="recipie_name">Guacamole Recipe</string>
+    <string name="btn_recipie">View Recipe</string>
+    <string name="ivImageDiscription">Text Discription</string>
+    <string name="ingredient_title">Ingredients</string>
+    <string name="ingredient_list">3 chopped avocado\n1 juiced lime\n1/2 chopped onion\n2chopped tomatoes\n1 T chopped cilantro</string>
+    <string name="direction_title">Directions</string>
+    <string name="direction_text">Mash the ingredients. Add salt, cumin, garlic, and cayenne to taste.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnTextRegister">Register</string>
+</resources>

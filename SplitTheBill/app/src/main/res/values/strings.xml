@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Split The Bill</string>
+    <string name="enter_the_quality_of_service">Enter the quality of service</string>
+    <string name="enter_the_total_bill_amount">Enter the bill amount</string>
+    <string name="number_of_individuals_in_party">Enter the number of people</string>
+    <string name="calculate_individual_bill">"Total Bill for Each Person"</string>
+    <string name="split_the_bill">Split the Bill" "</string>
+    <string name="btnTextCost">Calculate the Bill</string>
+    <string name="tvfifth">Choose the quality of service below</string>
+    <string name="prompt">Select Quality of Service</string>
+    <string-array name="qualityOfServiceArray">
+        <item>Excellent Service</item>
+        <item>Average Service</item>
+        <item>Poor Service</item>
+    </string-array>
+
+
+</resources>

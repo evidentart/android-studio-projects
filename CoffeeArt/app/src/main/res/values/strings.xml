@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coffee Art</string>
+    <string name="title_name">MoonBucks</string>
+    <string name="creator_name">Creator Name</string>
+    <string name="demo_name">Ali Akcin</string>
+    <string name="creator_name_fs">Creator Name</string>
+    <string name="selection_view">Coffee is a language in itself...</string>
+</resources>

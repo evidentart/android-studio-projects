@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/almendra_sc</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/charm</item>
+        <item>@font/goblin_one</item>
+        <item>@font/nosifer</item>
+        <item>@font/rock_salt</item>
+    </array>
+</resources>
